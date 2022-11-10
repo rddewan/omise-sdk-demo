@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "omise-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/omise/omise-ios.git",
+      "state" : {
+        "revision" : "45242ca332cf4fe7312bf0d362e4633329b51b33",
+        "version" : "4.16.0"
+      }
+    }
+  ],
+  "version" : 2
+}
